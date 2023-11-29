@@ -1,0 +1,53 @@
+body{
+    background-color: #d5f6f6;
+}
+.registration-page{
+    /* display: flex; */
+    margin-top: 130px;
+    margin-left: 50px;
+    height: 450px;
+    width: 300px;
+    /* background-color: blue; */
+    border: 5px dashed black;
+}
+.center
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.inputs
+{
+    width: 100%;
+    height: 200px;
+   
+    margin-top: 50px;
+    flex-direction: column;
+}
+.input{
+    margin-top: 10px;
+}
+
+.button_container
+{
+     width: 100%;
+    height: 100px; 
+ 
+}
+
+.signin_button
+{
+  
+}
+.registration{
+ 
+    margin-top: 0px;
+    font-size: 23px;
+    width: 100%;
+    height: 60px;
+    font-weight: bolder;
+    background-color: brown;
+    color: white;
+}
+    
